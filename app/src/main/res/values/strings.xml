@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Riddle Me</string>
+    <string name="riddle_me">RIDDLE ME</string>
+    <string name="question_no">Question No :</string>
+    <string name="score">Score:</string>
+    <string name="sample">1 +1 = ?</string>
+    <string name="single_word_answer">Single Word Answer</string>
+    <string name="submit">Submit</string>
+</resources>
